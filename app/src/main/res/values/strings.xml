@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Berita Bola Terbaru</string>
+
+    <!-- Berita Terbaru -->
+    <string name="beritabolaterbaru1">Berita El Clasico</string>
+    <string name="beritabolaterbaru2">Timnas Indonesia U17 Meraih Kemenangan</string>
+    <string name="beritabolaterbaru3">Ciesha Menjadi Sorotan Klub Eropa</string>
+    <string name="beritabolaterbaru4">FC Barcelona Umumkan Rekrutan Baru</string>
+    <string name="beritabolaterbaru5">Raphinha Tampil Gemilang di Leeds United</string>
+    <string name="beritabolaterbaru6">Manchester United Raih Kemenangan Penting</string>
+    <string name="beritabolaterbaru7">Theo Hernandez Memukau di AC Milan</string>
+    <string name="beritabolaterbaru8">Derby London: Arsenal vs Chelsea</string>
+    <string name="beritabolaterbaru9">Yamal Debut Gemilang di La Liga</string>
+    <string name="beritabolaterbaru10">Robert Lewandowski Cetak Hat-Trick</string>
+
+    <!-- String Tambahan -->
+    <string name="favorite_news_title">Berita Favorit</string>
+    <string name="no_favorite_news">Tidak ada berita favorit saat ini.</string>
+    <string name="loading">Memuat...</string>
+    <string name="error_message">Terjadi kesalahan, coba lagi nanti.</string>
+    <string name="view_details">Lihat Detail</string>
+</resources>
